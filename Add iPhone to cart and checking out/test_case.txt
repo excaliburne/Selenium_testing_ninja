@@ -1,4 +1,7 @@
 1. Open website
 2. Choose iPhone
-3. Set quantity to 1
-4. 
+3. Set quantity to 1 and update change
+4. Enter random coupon code
+5. Enter valid address informations
+6. Confirm delivery price
+7. Confirm checkout
