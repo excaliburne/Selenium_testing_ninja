@@ -32,7 +32,7 @@ class TestAddingiPhoneandcheckingout(unittest.TestCase):
     self.wait.until(EC.element_to_be_clickable((By.ID, "button-cart")))
     self.driver.find_element(By.ID, "button-cart").click()
 
-    self.wait.until(EC.element_to_be_clickable((By.ID, "button-cart")))
+    self.wait.until(EC.element_to_be_clickable((By.ID, "cart-total")))
     self.driver.find_element(By.ID, "cart-total").click()
 
     self.wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "strong > .fa-share")))
