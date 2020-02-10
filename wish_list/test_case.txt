@@ -1,0 +1,8 @@
+- Click on wish list
+- Check if logged_in or not
+
+If logged in:
+
+
+If logged out:
+- Log in

@@ -88,7 +88,7 @@ class TestAddingiPhoneandcheckingout(unittest.TestCase):
     self.wait.until(EC.element_to_be_clickable((By.LINK_TEXT, "Continue Shopping")))
     self.driver.find_element(By.LINK_TEXT, "Continue Shopping").click()
 
-    def teardown_method(self):
+  def teardown_method(self):
         self.driver.quit()
 
 if __name__ == "__main__":
