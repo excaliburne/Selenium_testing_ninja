@@ -3,9 +3,11 @@ Using Python, Selenium and unittest. Testing different functionalities of http:/
 
 ## Features
 
-- Registration attempt
-- Adding item to cart and checkout
+- Registration 
+- Adding item to cart 
+- Checkout
 
 ## Requirements
 - Python 3
 - Selenium 
+- unittest
