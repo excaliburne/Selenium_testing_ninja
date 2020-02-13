@@ -14,8 +14,6 @@ from selenium.common.exceptions import NoSuchElementException
 
 class Testwish(unittest.TestCase):
 
-
-
     def setUp(self):
         self.driver = webdriver.Chrome()
         self.vars = {}
