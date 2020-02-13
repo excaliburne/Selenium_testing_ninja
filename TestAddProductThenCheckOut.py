@@ -13,8 +13,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 
 
-print("Test")
-
 class TestAddingiPhoneandcheckingout(unittest.TestCase):
   def setUp(self):
     self.driver = webdriver.Chrome()
