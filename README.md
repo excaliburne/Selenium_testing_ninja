@@ -1,5 +1,6 @@
 # Selenium_testing_ninja
 Using Python, Selenium and unittest. Testing different functionalities of http://tutorialsninja.com/demo/ 
+Page Object Model is impletemented for some test, still modifying some cases.
 
 ## Features
 
@@ -8,6 +9,6 @@ Using Python, Selenium and unittest. Testing different functionalities of http:/
 - Checkout
 
 ## Requirements
-- Python 3
-- Selenium 
+- Python3
+- Selenium WebDriver
 - unittest
