@@ -1,5 +1,0 @@
-1. Go to website
-2. Click on "My Account" > "Register"
-3. Enter valid details
-4. Agree policy
-5. Register
