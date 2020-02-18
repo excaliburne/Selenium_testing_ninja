@@ -16,7 +16,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from locators.locator import RegistrationPage
 
-# generate some ranom info from random_generator.py
+# generate some random info from random_generator.py
 firstname = randomString(10)
 lastname = randomString(10)
 password = randomSimplePassword()
